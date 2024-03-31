@@ -1,2 +1,3 @@
 # mailer
-A set of classes related to processing of e-mails
+
+A set of classes related to processing and sending of e-mails

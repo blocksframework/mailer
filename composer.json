@@ -1,0 +1,24 @@
+{
+    "name": "blocksframework/mailer",
+    "description": "A set of classes related to processing and sending of e-mails",
+    "license": "MIT",
+    "keywords": [
+        "blocks",
+        "PHP framework",
+        "sending emails"
+    ],
+    "require": {
+        "php": ">=8.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Blocks\\Mailer\\":"src/class"
+        }
+    },
+    "authors": [
+        {
+            "name": "Stephen Stephenson",
+            "email": "stephenson.inbox@gmail.com"
+        }
+    ]
+}
